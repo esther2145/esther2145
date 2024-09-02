@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data science and analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kicaest03@gmail.com
-- 😄 Pronouns: she and her
-- ⚡ Fun fact: ...
+- 📫 How to reach me kicaest03@gmail...
 
 <!---
 esther2145/esther2145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
